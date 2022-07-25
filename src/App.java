@@ -8,7 +8,8 @@ public class App {
         // Fazer uma conexão HTTP e buscar os top 250 filmes
 
         //String url = "https://api.nasa.gov/planetary/apod?api_key=SUIKmiwcqVr4ZgMG0vdEzqoS3e4yzrhdAPaSyPK7&start_date=2022-06-12&end_date=2022-06-14";
-        String url = "https://api.mocki.io/v2/549a5d8b";
+        //String url = "https://api.mocki.io/v2/549a5d8b";
+        String url = "http://localhost:8080/linguagens";
 
         ClientHttp http = new ClientHttp();
         String json = http.buscaDados(url);
