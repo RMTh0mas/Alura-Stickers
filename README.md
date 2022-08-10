@@ -1,6 +1,6 @@
 <h1> Alura Stikers </h1>
 
-<p align="center">Este projeto Java que tem como objetivo criar uma aplicação que irá consumir dados de uma API e retornar a classificação desses filmes e séries, por meio da criação de stickers personalizados com indicações desses filmes/séries para enviar por whatsapp.</p>
+<p align="center">Este projeto Java que tem como objetivo criar uma aplicação que irá consumir dados de uma API e retornar a classificação de filmes e séries, por meio da criação de stickers personalizados com indicações desses filmes/séries para enviar por whatsapp.</p>
 
 <img src="https://user-images.githubusercontent.com/72501636/183801642-d9b59609-8ab9-4057-824e-18ee04f6ca5f.png" width="300" height="400">
 
